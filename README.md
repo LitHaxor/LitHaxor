@@ -18,8 +18,10 @@
 <a href="https://twitter.com/lithaxor" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://medium.com/@lithaxor" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://www.facebook.com/lithaxor/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/lithaxor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="instagram"></a>
+
 </div>
-[Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lithaxor/)
+
 
 
 ### Tools I Use
