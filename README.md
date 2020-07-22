@@ -1,6 +1,8 @@
 ## Hey there! 👋
-
-I am 17 years old programmer who loves to code web and do cloud native stuff. I love to put creativity and innovation in my work to create productive software
+  
+  🍕 Interested in DevOps and Machine learning. 
+ 
+ ✍ Currently learning - Angular , ASP , Python, Java.
 
 <div align="center" width="50">
 
@@ -34,8 +36,6 @@ I am 17 years old programmer who loves to code web and do cloud native stuff. I 
 
 
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-316CE6?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
