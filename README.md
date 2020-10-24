@@ -2,11 +2,9 @@
   
   🍕 Interested in DevOps and Machine learning. 
  
- ✍ Currently learning - Angular , ASP , Python, Java.
-
 <div align="center" width="50">
 
-<img src="https://i.pinimg.com/originals/c1/16/12/c11612b4a8bc754d82e4025aab7dc11d.gif" alt="Welcome!" width="300"/>
+<img src="https://media.giphy.com/media/3oKGzgNfssFG1xlwC4/giphy.gif" alt="Welcome!" width="300"/>
 </div>
 
 <div>
