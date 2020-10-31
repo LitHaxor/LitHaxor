@@ -1,7 +1,9 @@
 ## Hey there! 👋
+  ![](https://komarev.com/ghpvc/?username=LitHaxor)
+  <br><br>
   
   🍕 Interested in DevOps and Machine learning. <br>
- ![](https://komarev.com/ghpvc/?username=LitHaxor)
+ 
 <div align="center" width="50">
 
 <img src="https://media.giphy.com/media/3oKGzgNfssFG1xlwC4/giphy.gif" alt="Welcome!" width="300"/>
