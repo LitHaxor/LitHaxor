@@ -1,6 +1,6 @@
 ## Hey there! 👋
   
-  🍕 Interested in DevOps and Machine learning. 
+  🍕 Interested in DevOps and Machine learning. <br>
  ![](https://komarev.com/ghpvc/?username=LitHaxor)
 <div align="center" width="50">
 
