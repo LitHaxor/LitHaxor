@@ -44,6 +44,7 @@ I'm enthusiastic about programming and development.
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
+<hr/>
 
 **Frameworks/Librarys:**
 
@@ -85,7 +86,7 @@ I'm enthusiastic about programming and development.
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-
+<hr/>
 
 ### **Stacks learning/interested:**
 
