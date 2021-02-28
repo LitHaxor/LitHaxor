@@ -24,9 +24,9 @@ I'm enthusiastic about programming and development.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lithaxor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=lithaxor)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lithaxor&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?theme=dark&username=lithaxor&show_icons=true)  
 
 
 
