@@ -1,4 +1,4 @@
-<style>
+<styles>
 img{
      margin-top: 5px;
 }
@@ -8,7 +8,7 @@ display: flex;
 .social a{
  margin: 5px;
 }
-</style>
+</styles>
 
 ![Profile views](https://gpvc.arturio.dev/lithaxor) 
 ### Hi there 👋, my name is Hasan 🤙🍔☢
