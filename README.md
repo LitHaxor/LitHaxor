@@ -30,7 +30,7 @@ I'm enthusiastic about programming and development.
 
 
 
-#### **Stacks I use:**
+### **Stacks I use:**
 
 **Languages:**
 <p>
@@ -87,7 +87,7 @@ I'm enthusiastic about programming and development.
 
 
 
-#### **Stacks learning/interested:**
+### **Stacks learning/interested:**
 
 **-Goal for 2021:**
 
