@@ -9,7 +9,7 @@
 
 
 ## Abstract
-I am a software engineer at heart, specizlized in DevOps. Wanna be ML+DataOps.
+I am a software engineer at heart, specialising in DevOps. Wanna be ML+DataOps.
 - I’m currently exploring the world of Ai, Machine Learning, Data Engineer trying to combine them with DevOps.
 - From 2020, I've started my journey as a Software Engineer (Backend), DevOps. 
 - I can do react, nextjs. Also, specialized in scraping data using Cheerio, Puppetieer.
