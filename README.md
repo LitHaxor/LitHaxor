@@ -15,7 +15,7 @@ Belives quality over the quantity.
 - From 2020, I've started my journey as a Junior Backend Engineer. Currently I've exprience of 3 years plus with 4 companies. 
 - I'm capable of delivering anything, heavy on research and development. 
 - I enjoy researching and working with critical system design such as microservice, distrubuted system, kubernates, kafka, ETL, ELT, vector database, ML pipelines. 
-- Fun fact: I always make some bad jokes.
+- Fun fact: I always end up making bad jokes. 🤡
 - Another Fact: I prefer type safety, Strongly typed language.
 
 
