@@ -3,28 +3,29 @@
 
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :10.Nov.2022](https://img.shields.io/badge/version-10.nov.2022-informational)
+![version :11.MAY.2024](https://img.shields.io/badge/version-10.nov.2022-informational)
 ![profile count](https://komarev.com/ghpvc/?username=lithaxor&color=red)
 [![website](https://img.shields.io/badge/website-informational)](https://lithaxor.vercel.app)
 
 
 ## Abstract
-I am a software engineer at heart, specialising in DevOps. Wanna be ML+DataOps.
-- I’m currently exploring the world of Ai, Machine Learning, Data Engineer trying to combine them with DevOps.
-- From 2020, I've started my journey as a Software Engineer (Backend), DevOps. 
-- I can do react, nextjs. Also, specialized in scraping data using Cheerio, Puppetieer.
-- I enjoy building microservice architecture, monitoring, scaling system. 
+Mid Software Engineer, experienced in backend, frontend, devOps, machine learning and data science.
+Belives quality over the quantity. 
+- I'm currently exploring RUST, web3 and LLM.
+- From 2020, I've started my journey as a Junior Backend Engineer. Currently I've exprience of 3 years plus with 4 companies. 
+- I'm capable of delivering anything, heavy on research and development. 
+- I enjoy researching and working with critical system design such as microservice, distrubuted system, kubernates, kafka, ETL, ELT, vector database, ML pipelines. 
 - Fun fact: I always make some bad jokes.
-- Another Fact: I like OOP, strictly typed languages.
+- Another Fact: I prefer type safety, Strongly typed language.
 
 
 ## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Typescript, Python, SQL | Go, C, C++, Bash, Terraform, MD, Web2 stack  | Dart, Java, C# |
-| **Frameworks/Platforms** | Node.js, Docker, Github actions, Django, NestJS (microservice), React, PGSQL, mariadb, datadog (APM) | Promithius, Graphana, FastAPI, RabbitMQ, BullMQ, Snowflake, K8s, Ansible, AWS, Jenkins | Ai, Tensorflow, Flutter, Machine Learning, Deep Learning, Big Data, Big Table  |
+| **Languages(programming)** | Typescript, Python | Rust, C++, Java, C#  | Go, Zig, C |
+| **Frameworks/Platforms** | Node.js, Nest.js, Next.js, React, Fast API, Flask, Django, Docker | kubernates, AWS, Google Cloud, Azure, Cargo, Bun | Ai, Tensorflow, Flutter, Machine Learning, Deep Learning, Big Data, Big Table  |
 | **Languages(human)** | Bangla, English | Hindi | Korean  |
-| **Other interests** | MLOps, Data Lake, Data Engineering | Cyber Security, Game Development, Blockchain | Digital Privacy, w3 |
+| **Other interests** | Web 3, Deep Learning | Cyber Security, Game Development, Blockchain | Digital Privacy, w3 |
 
 
 ## Quotes
