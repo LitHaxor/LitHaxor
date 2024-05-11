@@ -3,7 +3,7 @@
 
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :11.MAY.2024](https://img.shields.io/badge/version-10.nov.2022-informational)
+![version :11.MAY.2024](https://img.shields.io/badge/version-11.MAY.2024-informational)
 ![profile count](https://komarev.com/ghpvc/?username=lithaxor&color=red)
 [![website](https://img.shields.io/badge/website-informational)](https://lithaxor.vercel.app)
 
