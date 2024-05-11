@@ -1,35 +1,30 @@
-# HASAN AHAMED: LitHaxor 
-
-
+# HASAN AHAMED: LitHaxor
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :11.MAY.2024](https://img.shields.io/badge/version-11.MAY.2024-informational)
+![version: 11.MAY.2024](https://img.shields.io/badge/version-11.MAY.2024-informational)
 ![profile count](https://komarev.com/ghpvc/?username=lithaxor&color=red)
 [![website](https://img.shields.io/badge/website-informational)](https://lithaxor.vercel.app)
 
-
 ## Abstract
-Mid Software Engineer, experienced in backend, frontend, devOps, machine learning and data science.
-Belives quality over the quantity. 
-- I'm currently exploring RUST, web3 and LLM.
-- From 2020, I've started my journey as a Junior Backend Engineer. Currently I've exprience of 3 years plus with 4 companies. 
-- I'm capable of delivering anything, heavy on research and development. 
-- I enjoy researching and working with critical system design such as microservice, distrubuted system, kubernates, kafka, ETL, ELT, vector database, ML pipelines. 
+Mid-Level Software Engineer, experienced in backend, frontend, DevOps, machine learning, and data science.
+Believes in quality over quantity.
+- Currently exploring RUST, web3, and LLM.
+- Started my journey as a Junior Backend Engineer in 2020. Currently, I have over 3 years of experience with 4 companies.
+- Capable of delivering anything, heavy on research and development.
+- Enjoys researching and working with critical system design such as microservices, distributed systems, Kubernetes, Kafka, ETL, ELT, vector databases, ML pipelines.
 - Fun fact: I always end up making bad jokes. 🤡
-- Another Fact: I prefer type safety, Strongly typed language.
-
+- Another fact: I prefer type safety, Strongly typed languages.
 
 ## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Typescript, Python | Rust, C++, Java, C#  | Go, Zig, C |
-| **Frameworks/Platforms** | Node.js, Nest.js, Next.js, React, Fast API, Flask, Django, Docker | kubernates, AWS, Google Cloud, Azure, Cargo, Bun | Ai, Tensorflow, Flutter, Machine Learning, Deep Learning, Big Data, Big Table  |
+| **Languages(programming)** | TypeScript, Python | Rust, C++, Java, C#  | Go, Zig, C |
+| **Frameworks/Platforms** | Node.js, Nest.js, Next.js, React, Fast API, Flask, Django, Docker | Kubernetes, AWS, Google Cloud, Azure, Cargo, Bun | AI, TensorFlow, Flutter, Machine Learning, Deep Learning, Big Data, Big Table  |
 | **Languages(human)** | Bangla, English | Hindi | Korean  |
-| **Other interests** | Web 3, Deep Learning | Cyber Security, Game Development, Blockchain | Digital Privacy, w3 |
-
+| **Other interests** | Web 3, Deep Learning | Cyber Security, Game Development, Blockchain | Digital Privacy, Web 3 |
 
 ## Quotes
-> Stay hungry, stay foolish. - Steve Jobs
+> "Stay hungry, stay foolish." - Steve Jobs
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
