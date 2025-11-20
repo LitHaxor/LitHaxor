@@ -6,10 +6,10 @@
 [![website](https://img.shields.io/badge/website-informational)](https://lithaxor.vercel.app)
 
 ## Abstract
-Mid-Level Software Engineer, experienced in backend, frontend, DevOps, machine learning, and data science.
+Senior Software Engineer, experienced in backend, frontend, DevOps, machine learning, and data science.
 Believes in quality over quantity.
 - Currently exploring RUST, web3, and LLM.
-- Started my journey as a Junior Backend Engineer in 2020. Currently, I have over 3 years of experience with 4 companies.
+- Started my journey as a Junior Backend Engineer in 2020. Currently, I have over 6 years of experience with 5 companies. One including  YC Candidate 2021, and YC W25
 - Capable of delivering anything, heavy on research and development.
 - Enjoys researching and working with critical system design such as microservices, distributed systems, Kubernetes, Kafka, ETL, ELT, vector databases, ML pipelines.
 - Fun fact: I always end up making bad jokes. 🤡
