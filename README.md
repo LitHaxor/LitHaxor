@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-success" />
-  <img src="https://img.shields.io/badge/version-11.MAY.2024-informational" />
+  <img src="https://img.shields.io/badge/version-14.MAY.2026-informational" />
   <img src="https://komarev.com/ghpvc/?username=lithaxor&color=red" />
   <a href="https://lithaxor.vercel.app">
     <img src="https://img.shields.io/badge/website-online-informational" />
