@@ -20,7 +20,7 @@
 Senior Software Engineer focused on building scalable systems, cloud-native infrastructure, and research-driven products.
 
 Started my journey as a Junior Backend Engineer in 2020.  
-Currently carrying 6+ years of experience across backend engineering, frontend development, DevOps, machine learning, and distributed systems.
+Currently carrying 5+ years of experience across backend engineering, frontend development, DevOps, machine learning, and distributed systems.
 
 ### Current Focus
 - Exploring **Rust**, **LLM systems**, and **Web3**
